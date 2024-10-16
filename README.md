@@ -20,7 +20,7 @@ Este es un juego de Viaje Espacial desarrollado en Python utilizando la bibliote
 
 1. Clona este repositorio:
    ```bash
-   git clone https:
+   git clone https:https://github.com/davidbromero/PYGAME-NAVE-ESPACIAL.git
    cd Juego-Pygame
    ```
 
